@@ -1,0 +1,1 @@
+{"jobID":"8d794028-9a4b-5bb2-c108-5d0e20dc84f3","spec":{"type":"policy","cause":{"Message":"","User":"Michael Perel \u003cmichaelsethperel@microsoft.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
